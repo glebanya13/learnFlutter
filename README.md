@@ -1,7 +1,5 @@
 # learnFlutter
 
-![learn_flutter](https://user-images.githubusercontent.com/65718268/218254674-4d63c666-912e-4b03-85d1-060127f0e347.png)
-
 A new Flutter project.
 
 ## Getting Started
